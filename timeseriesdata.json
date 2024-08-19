@@ -1,0 +1,86 @@
+[
+    {
+        "country": "USA",
+        "year": 2023,
+        "sugar_production": 8300000,
+        "sugar_import": 4500000,
+        "sugar_export": 1500000
+    },
+    {
+        "country": "USA",
+        "year": 2024,
+        "sugar_production": 8400000,
+        "sugar_import": 4600000,
+        "sugar_export": 1600000
+    },
+    {
+        "country": "USA",
+        "year": 2025,
+        "sugar_production": 8500000,
+        "sugar_import": 4700000,
+        "sugar_export": 1700000
+    },
+    {
+        "country": "Brazil",
+        "year": 2023,
+        "sugar_production": 10000000,
+        "sugar_import": 200000,
+        "sugar_export": 7000000
+    },
+    {
+        "country": "Brazil",
+        "year": 2024,
+        "sugar_production": 10200000,
+        "sugar_import": 210000,
+        "sugar_export": 7200000
+    },
+    {
+        "country": "Brazil",
+        "year": 2025,
+        "sugar_production": 10400000,
+        "sugar_import": 220000,
+        "sugar_export": 7400000
+    },
+    {
+        "country": "India",
+        "year": 2023,
+        "sugar_production": 28000000,
+        "sugar_import": 500000,
+        "sugar_export": 4000000
+    },
+    {
+        "country": "India",
+        "year": 2024,
+        "sugar_production": 28500000,
+        "sugar_import": 510000,
+        "sugar_export": 4200000
+    },
+    {
+        "country": "India",
+        "year": 2025,
+        "sugar_production": 29000000,
+        "sugar_import": 520000,
+        "sugar_export": 4400000
+    },
+    {
+        "country": "Thailand",
+        "year": 2023,
+        "sugar_production": 15000000,
+        "sugar_import": 100000,
+        "sugar_export": 10000000
+    },
+    {
+        "country": "Thailand",
+        "year": 2024,
+        "sugar_production": 15200000,
+        "sugar_import": 110000,
+        "sugar_export": 10200000
+    },
+    {
+        "country": "Thailand",
+        "year": 2025,
+        "sugar_production": 15400000,
+        "sugar_import": 120000,
+        "sugar_export": 10400000
+    }
+]
